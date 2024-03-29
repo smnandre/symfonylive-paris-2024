@@ -1,4 +1,4 @@
-<h1 align="center">Live Components  🐘 🐘  Symfony Live  🐘 🐘  Paris 2024</h1>
+<h1 align="center">Live Components  🐘   Symfony Live  🐘  Paris 2024</h1>
 
 ![live-component-symfony-live-paris](https://github.com/smnandre/symfonylive-paris-2024/assets/1359581/b6328d92-7d60-44a3-93f9-419bff5e982e)
 
